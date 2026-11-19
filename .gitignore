@@ -1,0 +1,22 @@
+# Visual Studio folders
+.vs/
+[xX]64/
+[xX]86/
+[dD]ebug/
+[rR]elease/
+
+# Build artifacts
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# User-specific files
+*.user
+*.suo
+*.aps
